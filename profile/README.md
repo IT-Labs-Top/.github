@@ -1,35 +1,110 @@
-# ITLabs
+<h1 align="center">
+  <img src="https://itlabs.top/favicon.ico" width="32" height="32" alt="ITLabs">
+  ITLabs — Лаборатория Информационных Технологий
+</h1>
 
-Добро пожаловать в GitHub-организацию ITLabs!
+<p align="center">
+  <strong>Ведущий российский разработчик программного обеспечения</strong><br>
+  Интерактивные решения • Веб-разработка • AR/VR • Мобильные приложения
+</p>
 
-## Для новых сотрудников
+<p align="center">
+  <a href="https://itlabs.top">Сайт</a> •
+  <a href="https://itlabs.top/projects">Проекты</a> •
+  <a href="https://itlabs.top/contacts">Контакты</a> •
+  <a href="https://hh.ru/employer/3499705">Вакансии</a>
+</p>
 
-**Обязательно прочитай [Руководство разработчика](../docs/DEVELOPER_GUIDE.md)** — там всё о работе с Git, GitHub, Sentry и наших процессах.
+---
 
-## Быстрые ссылки
+## О компании
 
-- [Руководство разработчика](../docs/DEVELOPER_GUIDE.md)
-- [Sentry](https://sentry.itlabs.top)
-- Telegram-бот уведомлений: @itlabs_sentry_bot
+**ITLabs** работает на рынке с 2016 года. Мы создаём программное обеспечение для интерактивного оборудования, веб-сайты, мобильные приложения и AR/VR решения.
 
-## Правила оформления репозиториев
+<table>
+  <tr>
+    <td align="center"><strong>250+</strong><br>выполненных проектов</td>
+    <td align="center"><strong>7+</strong><br>лет на рынке</td>
+    <td align="center"><strong>93%</strong><br>клиентов рекомендуют нас</td>
+  </tr>
+</table>
 
-При создании репозитория:
+## Наши услуги
 
-1. **Название** — на английском, осмысленное (без префиксов)
-2. **Описание** — на русском, название проекта/заказчика
-3. **Topics** — обязательно указать тип:
-   - `backend` — бэкенд, API
-   - `frontend` — веб-интерфейсы
-   - `interactive` — киоски, выставки
-   - `mobile` — мобильные приложения
+| Направление | Описание |
+|-------------|----------|
+| **Интерактивное ПО** | Программы для сенсорных киосков, столов, панелей, терминалов самообслуживания |
+| **Веб-разработка** | Сайты, порталы, интернет-магазины, личные кабинеты |
+| **AR/VR** | Приложения дополненной и виртуальной реальности |
+| **Мобильные приложения** | iOS и Android приложения |
+| **Интерактивные игры** | Развлекательные и образовательные игровые решения |
+| **Навигация** | Интерактивные карты и навигационные системы |
 
-## Команды
+## Готовые решения
 
-| Команда | Описание |
-|---------|----------|
-| [Backend](https://github.com/orgs/IT-Labs-Top/teams/backend) | Бэкенд-разработка |
-| [Frontend](https://github.com/orgs/IT-Labs-Top/teams/frontend) | Фронтенд-разработка |
-| [Interactive](https://github.com/orgs/IT-Labs-Top/teams/interactive) | Интерактивные проекты |
-| [Contractors](https://github.com/orgs/IT-Labs-Top/teams/contractors) | Подрядчики |
-| [Management](https://github.com/orgs/IT-Labs-Top/teams/management) | Менеджмент |
+- **Навигация ITLabs** — интерактивные карты с точками интереса и построением маршрутов
+- **Электронная очередь** — система управления очередью с терминалами самообслуживания
+- **Интерактивное расписание** — для школ, университетов, бизнес-центров
+- **Книга памяти** — цифровые мемориальные комплексы
+
+## Технологии
+
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Python, PHP, Symfony, FastAPI, Django</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>Vue.js, React, Next.js, Nuxt</td>
+  </tr>
+  <tr>
+    <td><strong>Desktop & Interactive</strong></td>
+    <td>C#, .NET, WPF, Unity</td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>React Native, Flutter</td>
+  </tr>
+  <tr>
+    <td><strong>AI/ML</strong></td>
+    <td>Python, TensorFlow, PyTorch</td>
+  </tr>
+</table>
+
+## Наши клиенты
+
+<p align="center">
+  Alrosa • VK • Газпром • Роснефть • Ингосстрах • Home Credit Bank<br>
+  Ferrero Rocher • Детский Мир • Ingrad • ТРЦ Европейский • Остров Мечты
+</p>
+
+## Контакты
+
+- **Сайт:** [itlabs.top](https://itlabs.top)
+- **Email:** info@itlabs.top
+- **Телефон:** +7 995 296 4335
+- **Адрес:** Ижевск, ул. Холмогорова, 85
+
+---
+
+## Хотите работать с нами?
+
+### Для заказчиков
+Оставьте заявку на сайте [itlabs.top](https://itlabs.top) или напишите на info@itlabs.top
+
+### Для соискателей
+Мы всегда ищем талантливых специалистов! Отправьте резюме на **hr@itlabs.top** или посмотрите [вакансии на HeadHunter](https://hh.ru/employer/3499705)
+
+**Кого мы ищем:**
+- Backend-разработчики (Python, PHP)
+- Frontend-разработчики (Vue.js, React)
+- C# разработчики (Unity, .NET)
+- QA-инженеры
+- UI/UX дизайнеры
+
+---
+
+<p align="center">
+  <sub>© 2016–2026 ITLabs — Лаборатория Информационных Технологий</sub>
+</p>
