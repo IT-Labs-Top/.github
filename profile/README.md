@@ -1,36 +1,35 @@
-# Требования к оформлению репозиториев
+# ITLabs
 
-## При создании репозитория
+Добро пожаловать в GitHub-организацию ITLabs!
 
-1. **Название** — на английском, осмысленное название проекта (без префиксов)
-   - Примеры: `museum-navigation`, `photo-booth`, `memory-book-lukoil`
+## Для новых сотрудников
 
-2. **Описание (Description)** — на русском языке
-   - Указывать название проекта (можно из беседы в ТГ)
-   - Пример: "Навигация для краеведческого музея г. Кукмор"
+**Обязательно прочитай [Руководство разработчика](../docs/DEVELOPER_GUIDE.md)** — там всё о работе с Git, GitHub, Sentry и наших процессах.
 
-3. **Topics (теги)** — обязательно указать тип проекта:
+## Быстрые ссылки
 
-   | Тег | Описание |
-   |-----|----------|
-   | `backend` | Бэкенд (API, сервисы) |
-   | `frontend` | Фронтенд (веб-интерфейсы) |
-   | `interactive` | Интерактивные решения (киоски, выставки) |
-   | `mobile` | Мобильные приложения |
+- [Руководство разработчика](../docs/DEVELOPER_GUIDE.md)
+- [Sentry](https://sentry.itlabs.top)
+- Telegram-бот уведомлений: @itlabs_sentry_bot
 
-   Дополнительные теги (по желанию):
-   - Технологии: `python`, `fastapi`, `react`, `vue`, `csharp`, `unity`
-   - Статус: `production`, `archive`, `prototype`
+## Правила оформления репозиториев
 
-## Как добавить Topics
+При создании репозитория:
 
-1. Откройте репозиторий
-2. Нажмите ⚙️ (Settings) справа от "About"
-3. В поле "Topics" добавьте теги
-4. Save changes
+1. **Название** — на английском, осмысленное (без префиксов)
+2. **Описание** — на русском, название проекта/заказчика
+3. **Topics** — обязательно указать тип:
+   - `backend` — бэкенд, API
+   - `frontend` — веб-интерфейсы
+   - `interactive` — киоски, выставки
+   - `mobile` — мобильные приложения
 
-## Фильтрация по тегам
+## Команды
 
-В списке репозиториев организации можно искать:
-- `topic:backend` — все бэкенд проекты
-- `topic:interactive topic:unity` — интерактивные на Unity
+| Команда | Описание |
+|---------|----------|
+| [Backend](https://github.com/orgs/IT-Labs-Top/teams/backend) | Бэкенд-разработка |
+| [Frontend](https://github.com/orgs/IT-Labs-Top/teams/frontend) | Фронтенд-разработка |
+| [Interactive](https://github.com/orgs/IT-Labs-Top/teams/interactive) | Интерактивные проекты |
+| [Contractors](https://github.com/orgs/IT-Labs-Top/teams/contractors) | Подрядчики |
+| [Management](https://github.com/orgs/IT-Labs-Top/teams/management) | Менеджмент |
