@@ -83,7 +83,6 @@
 
 - **Сайт:** [itlabs.top](https://itlabs.top)
 - **Email:** info@itlabs.top
-- **Телефон:** +7 995 296 4335
 - **Адрес:** Ижевск, ул. Холмогорова, 85
 
 ---
@@ -91,10 +90,10 @@
 ## Хотите работать с нами?
 
 ### Для заказчиков
-Оставьте заявку на сайте [itlabs.top](https://itlabs.top) или напишите на info@itlabs.top
+Оставьте заявку на сайте [itlabs.top](https://itlabs.top) или напишите в [telegram](https://t.me/itlabs_sale)
 
 ### Для соискателей
-Мы всегда ищем талантливых специалистов! Отправьте резюме на **hr@itlabs.top** или посмотрите [вакансии на HeadHunter](https://hh.ru/employer/3499705)
+Мы всегда ищем талантливых специалистов! Отправьте резюме на **hr@itlabs.top** или посмотрите [вакансии на HeadHunter](https://izhevsk.hh.ru/employer/5234433)
 
 **Кого мы ищем:**
 - Backend-разработчики (Python, PHP)
